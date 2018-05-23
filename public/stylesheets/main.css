@@ -1,0 +1,23 @@
+body {
+  
+}
+
+.img-thumbnail {
+    padding: 0;
+}
+
+.show-view img {
+    width: 100%;
+}
+
+.show-view {
+    margin-bottom: 25px;
+}
+
+.show-view .card-body{
+    padding: 0;
+}
+
+.figure-caption {
+    padding: 15px;
+}
