@@ -26,6 +26,6 @@ body {
     padding: 15px;
 }
 
-#delete-form {
+.delete-form {
     display: inline;
 }
