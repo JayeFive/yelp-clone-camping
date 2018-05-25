@@ -18,6 +18,10 @@ body {
     padding: 0;
 }
 
+.figure {
+    width: 100%;
+}
+
 .figure-caption {
     padding: 15px;
 }
