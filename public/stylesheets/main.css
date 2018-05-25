@@ -25,3 +25,7 @@ body {
 .figure-caption {
     padding: 15px;
 }
+
+#delete-form {
+    display: inline;
+}
