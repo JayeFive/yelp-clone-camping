@@ -14,10 +14,9 @@
 **Frontend Stack**:
   - [Bootstrap4](https://getbootstrap.com/)
   - [EJS](http://ejs.co/)
-  - 
+
 **Features**
   - User Authentication using Passport
   - User Authorization of CRUD operations
-  - 
 
 
