@@ -11,12 +11,10 @@
   - [MongoDB](https://www.mongodb.com/)
   - [Mongoose](http://mongoosejs.com/)
 
-**Frontend Stack**:
+**Frontend Stack**
   - [Bootstrap4](https://getbootstrap.com/)
   - [EJS](http://ejs.co/)
 
 **Features**
   - User Authentication using Passport
   - User Authorization of CRUD operations
-
-
