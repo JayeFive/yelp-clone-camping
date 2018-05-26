@@ -1,13 +1,16 @@
-# Yelp Camp Clone
+# Yelp Camp Clone <hr>
 
-This site was created to mock Yelp, but specifically for campsites.
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+> This site was created to mock Yelp, but specifically for campsites.
 
 ### Main project highlights
 
-* Backend Stack: Node.JS, Express, MongoDB, Mongoose
-* Front End: Bootstrap, EJS
-
+* **Backend Stack**: Node.JS, Express, MongoDB, Mongoose  
+* **Frontend Stack**: Bootstrap, EJS  
+<br />  
 * RESTful routing and CRUD operations
 * User Authentication using Passport
-* User Authorization
+* User Authorization  
+<br />
+
 
